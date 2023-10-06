@@ -20,7 +20,8 @@ This user manual provides an overview of the components and usage instructions f
 
 
 
-![Screenshot 2023-09-04 150254](https://github.com/Sawrav-23/Swiggy_Data_Analysis/assets/144011738/24375af2-82c2-4aa6-98fc-ab4c63280b1b)
+"C:\Users\sawra\Pictures\Screenshots\Screenshot 2023-09-13 140902.png"
+
 
 
 

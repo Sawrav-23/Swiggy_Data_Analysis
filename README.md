@@ -23,6 +23,9 @@ This user manual provides an overview of the components and usage instructions f
 - Since the Data I got mostly cleaned some minor uncleaned data are there so I have fixed them in power query editor.
 - Imported the aggregated data into PowerBI for further Analysis and Visualisation.
 
+
+  # Insights
+
 ![image](https://github.com/Sawrav-23/Swiggy_Data_Analysis/assets/144011738/84d21665-c4d2-4a23-a991-210af51c8c10)
 
 

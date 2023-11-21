@@ -1,5 +1,10 @@
 # Swiggy_Data_Analysis
-Analyzing Swiggy's restaurant data in Bangalore to provide management with valuable insights for informed decision-making.
+In this project, the goal is to analyze Swiggy's restaurant data in Bangalore to extract valuable insights. The focus is on providing the management with actionable information to support informed decision-making in areas such as business strategy, customer preferences, and operational efficiency within the Bangalore market.
+
+
+
+
+
 
 # USER MANUALS
 This user manual provides an overview of the components and usage instructions for the Swiggy data extraction and visualization system. The system consists of Python (.py) files for web scraping, CSV files for storing extracted data, and a Power BI (.pbix) file for data visualization and dashboard creation.

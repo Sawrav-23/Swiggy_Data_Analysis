@@ -26,7 +26,8 @@ This user manual provides an overview of the components and usage instructions f
 
 # Insights
 
-![Screenshot 2023-12-14 201738](https://github.com/Sawrav-23/Swiggy_Data_Analysis/assets/144011738/c57b4c7c-5d8c-49db-bdd0-9692bff67e18)
+![Screenshot 2023-12-26 142129](https://github.com/Sawrav-23/Swiggy_Data_Analysis/assets/144011738/faab3bc2-ccb6-4ea7-b893-187881f5df56)
+
 
 
 

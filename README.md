@@ -12,7 +12,7 @@ This user manual provides an overview of the components and usage instructions f
 # Analysis
 - Expensive Restaurants on the basis of Cuisines.
 - Cheapest Restaurants on the basis of Cuisines.
-- Top 10 Restaurants (Area wise).
+- Top 10 location (Restaurants count).
 - Top 5 restaurants on basis of Highest ratings.
 - Top 5 restaurants on basis of Lowest ratings.
 - Top 5 Cuisines by Restaurants.
